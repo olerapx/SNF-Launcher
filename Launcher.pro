@@ -5,7 +5,6 @@
 #-------------------------------------------------
 
 QT       += core
-
 QT       -= gui
 
 TARGET = SNF_Minimizer
@@ -13,6 +12,5 @@ CONFIG   -= console
 CONFIG   -= app_bundle
 
 TEMPLATE = app
-
 
 SOURCES += main.cpp
