@@ -8,7 +8,7 @@ QT       += core
 
 QT       -= gui
 
-TARGET = Launcher
+TARGET = SNF_Minimizer
 CONFIG   -= console
 CONFIG   -= app_bundle
 
